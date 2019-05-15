@@ -1,0 +1,14 @@
+artifact_uri: /home/silas/MIDS/W210/Stock-Trading-Environment/mlruns/0/82b3488720494c558b4e707e8be8465f/artifacts
+end_time: 1557796067531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_uuid: 82b3488720494c558b4e707e8be8465f
+source_name: /home/silas/anaconda3/lib/python3.6/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1557791850051
+status: 3
+tags: []
+user_id: silas
